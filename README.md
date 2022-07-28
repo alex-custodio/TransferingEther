@@ -1,5 +1,5 @@
 # TransferingEther
-Here comes my project to improve my web3j skills, in this repo I will try to make a simple ether transaction
+Here comes my project to improve my web3j skills, in this repo I will try to make a simple ether transaction and deploy of a smart contract
 
 ## Tools
 + Java
