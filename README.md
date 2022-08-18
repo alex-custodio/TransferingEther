@@ -17,9 +17,3 @@ The main code is on src/main/java folder and I called it Transaction.java. The c
 
 I would never have made it without: [this tutorial](https://www.youtube.com/watch?v=kJ905hVbQ_E&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg&index=32)
 (In this test I )
-
-
-# Portuguese
-## Como funciona 
-
-// faço dps to com preguiça
